@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Parse
 
 class AddPlaceVC: UIViewController, UIImagePickerControllerDelegate , UINavigationControllerDelegate{
 

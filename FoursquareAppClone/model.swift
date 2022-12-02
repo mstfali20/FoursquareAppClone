@@ -17,6 +17,8 @@ class PlaceModel {
     var placeType = ""
     var placepropertis = ""
     var placeImages = UIImage()
+    var placelatitude = ""
+    var placelongitude  = ""
     
     private init(){}
     
